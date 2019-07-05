@@ -9,5 +9,5 @@ PyQTGraph
 Run
 ----
 ```
-python t.py
+$ python t.py
 ```
