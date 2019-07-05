@@ -2,8 +2,8 @@ Perlin Noise
 =============
 Requirements
 ---------------
-NumPy
-PyOpenGL
+NumPy\
+PyOpenGL\
 PyQTGraph
 
 Run
