@@ -2,14 +2,14 @@ Perlin Noise
 =============
 Requirements
 ---------------
-NumPy\
+PyQT5\
 PyOpenGL\
 PyQTGraph
 
 Run
 ----
 ```
-$ python t.py
+$ python perlin_terrain.py
 ```
 
 ![Alt text](perlin.png?raw=true "Perlin App")
