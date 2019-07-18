@@ -1,5 +1,5 @@
 import numpy as np
-from pyqtgraph.Qt import QtCore, QtGui, QtWidgets
+from PyQt5 import QtCore, QtGui, QtWidgets
 import pyqtgraph.opengl as gl
 import pyqtgraph as pg
 import sys
